@@ -1,0 +1,17 @@
+
+/* /////////MEDIA////////*/
+
+img, video, audio {
+  max-width: 100%;
+}
+
+
+
+/* /////////LAYOUT STYLES////////*/
+
+.row{
+
+	margin-bottom: 20px
+}
+
+
